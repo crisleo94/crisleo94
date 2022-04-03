@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 # Dev Card - daily.dev
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/crisleo94/crisleo94/blob/master/devcard.svg" width="400" alt="crisleo94's Dev Card"/></a>
+<a href="https://app.daily.dev/crisleo94"><img src="https://github.com/crisleo94/crisleo94/blob/main/devcard.svg" width="400" alt="Cristhian Reinoso's Dev Card"/></a>
