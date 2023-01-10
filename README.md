@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **cristhian.reinoso@live.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/cristhian-reinoso](https://www.linkedin.com/cristhian-reinoso)
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/cristhian-reinoso" target="_blank">LinkeIn</a>
 
 - ⚡ Fun fact **I usually code with no music... I know it's scary**
 
