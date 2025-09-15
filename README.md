@@ -1,19 +1,4 @@
-<!--
-**crisleo94/crisleo94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Dev Card - daily.dev
+# Dev Card
 
 <a href="https://app.daily.dev/crisleo94"><img src="https://github.com/crisleo94/crisleo94/blob/main/devcard.svg" width="400" alt="Cristhian Reinoso's Dev Card"/></a>
 
@@ -35,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/crisleo94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="crisleo94" height="30" width="40" /></a>
-<a href="https://twitter.com/surrealista20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surrealista20" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11423834/crisleo94" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdIbjxeE30V20HFwshvOVl50yZie4t1UfrA&s" alt="stackoverflow" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cristhian-reinoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristhian-reinoso" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/crisleo94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="crisleo94" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/crisleo94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="crisleo94" height="30" width="40" /></a>
