@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 
 - 🎙️ My podcast in spotify at <a href="https://open.spotify.com/show/5Ce7nn9Voq2MGgWQ8vKoiC" target="_blank">CodeSpeakers</a> (Spanish)
 
-- ⚡ Fun fact **I usually code without music... I know it's scary**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
